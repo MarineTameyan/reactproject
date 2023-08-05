@@ -1,0 +1,9 @@
+.footer{
+    margin: 2px 15px 30px 15px;
+    height: 80px;
+    background-color: darkolivegreen;
+}
+
+.footer p{
+    font-size: 20px;
+}
